@@ -9,7 +9,7 @@ To demonstrate a simple access control mechanism using basic string comparison i
 ## 🧠 How It Works
 
 - A predefined admin username is stored in the script.
-- The user is prompted to input a username.
+- The user is prompted to input a username and password.
 - If the input matches the admin name (case-sensitive), access is granted.
 - Otherwise, access is denied.
 
