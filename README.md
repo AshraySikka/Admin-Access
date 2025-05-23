@@ -15,11 +15,11 @@ To demonstrate a simple access control mechanism using basic string comparison i
 
 ## 📁 Files
 
-- `admin_access_checker.py`: Main Python script that handles access control.
+- `admin-access.py`: Main Python script that handles access control.
 
 ## ▶️ How to Run
 
 Make sure you have Python installed, then run:
 
 ```bash
-python admin_access_checker.py
+python admin-access.py
